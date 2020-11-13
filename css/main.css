@@ -1584,14 +1584,20 @@ body {padding-right: 0px !important;}
 }
 
 .menu-heading{
-  line-height: 0px;
+  /* line-height: 0px;
   color: white;
   margin-bottom: 20px;
   text-align: center;
-  border: 22px solid #ec1d25;        /* All borders set */
-  border-left: 20px solid transparent;                      /* Remove left border */
-  border-right: 20px solid transparent; /* Right transparent */
-  height: 0;
+  border: 22px solid #ec1d25;      
+  border-left: 20px solid transparent;                    
+  border-right: 20px solid transparent; 
+  height: 0; */
+  color: white;
+  margin-bottom: 20px;
+  background-color: #ec1d25;
+  text-align: center;
+  border: 10px solid #ec1d25;
+  border-radius: 10px;
 }
 
 
